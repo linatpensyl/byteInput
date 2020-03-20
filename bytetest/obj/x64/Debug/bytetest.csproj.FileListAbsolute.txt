@@ -1,0 +1,6 @@
+D:\VS2019Project\bytetest\bytetest\bin\x64\Debug\bytetest.exe.config
+D:\VS2019Project\bytetest\bytetest\bin\x64\Debug\bytetest.exe
+D:\VS2019Project\bytetest\bytetest\bin\x64\Debug\bytetest.pdb
+D:\VS2019Project\bytetest\bytetest\obj\x64\Debug\bytetest.exe
+D:\VS2019Project\bytetest\bytetest\obj\x64\Debug\bytetest.pdb
+D:\VS2019Project\bytetest\bytetest\obj\x64\Debug\bytetest.csprojAssemblyReference.cache
